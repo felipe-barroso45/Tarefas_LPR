@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Par ou Impar.props" />
+</Project>

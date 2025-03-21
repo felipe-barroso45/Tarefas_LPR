@@ -1,0 +1,29 @@
+C:\Users\Alunos\Desktop\DS-class\LP-class\Tarefas_LPR\Par ou Impar\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Alunos\Desktop\DS-class\LP-class\Tarefas_LPR\Par ou Impar\bin\Debug\net9.0\appsettings.json
+C:\Users\Alunos\Desktop\DS-class\LP-class\Tarefas_LPR\Par ou Impar\bin\Debug\net9.0\Par ou Impar.staticwebassets.endpoints.json
+C:\Users\Alunos\Desktop\DS-class\LP-class\Tarefas_LPR\Par ou Impar\bin\Debug\net9.0\Par ou Impar.exe
+C:\Users\Alunos\Desktop\DS-class\LP-class\Tarefas_LPR\Par ou Impar\bin\Debug\net9.0\Par ou Impar.deps.json
+C:\Users\Alunos\Desktop\DS-class\LP-class\Tarefas_LPR\Par ou Impar\bin\Debug\net9.0\Par ou Impar.runtimeconfig.json
+C:\Users\Alunos\Desktop\DS-class\LP-class\Tarefas_LPR\Par ou Impar\bin\Debug\net9.0\Par ou Impar.dll
+C:\Users\Alunos\Desktop\DS-class\LP-class\Tarefas_LPR\Par ou Impar\bin\Debug\net9.0\Par ou Impar.pdb
+C:\Users\Alunos\Desktop\DS-class\LP-class\Tarefas_LPR\Par ou Impar\obj\Debug\net9.0\Par ou Impar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alunos\Desktop\DS-class\LP-class\Tarefas_LPR\Par ou Impar\obj\Debug\net9.0\Par ou Impar.AssemblyInfoInputs.cache
+C:\Users\Alunos\Desktop\DS-class\LP-class\Tarefas_LPR\Par ou Impar\obj\Debug\net9.0\Par ou Impar.AssemblyInfo.cs
+C:\Users\Alunos\Desktop\DS-class\LP-class\Tarefas_LPR\Par ou Impar\obj\Debug\net9.0\Par ou Impar.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\Desktop\DS-class\LP-class\Tarefas_LPR\Par ou Impar\obj\Debug\net9.0\Par ou Impar.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Alunos\Desktop\DS-class\LP-class\Tarefas_LPR\Par ou Impar\obj\Debug\net9.0\Par ou Impar.sourcelink.json
+C:\Users\Alunos\Desktop\DS-class\LP-class\Tarefas_LPR\Par ou Impar\obj\Debug\net9.0\scopedcss\bundle\Par ou Impar.styles.css
+C:\Users\Alunos\Desktop\DS-class\LP-class\Tarefas_LPR\Par ou Impar\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Alunos\Desktop\DS-class\LP-class\Tarefas_LPR\Par ou Impar\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Alunos\Desktop\DS-class\LP-class\Tarefas_LPR\Par ou Impar\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Alunos\Desktop\DS-class\LP-class\Tarefas_LPR\Par ou Impar\obj\Debug\net9.0\staticwebassets\msbuild.Par ou Impar.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Alunos\Desktop\DS-class\LP-class\Tarefas_LPR\Par ou Impar\obj\Debug\net9.0\staticwebassets\msbuild.Par ou Impar.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Alunos\Desktop\DS-class\LP-class\Tarefas_LPR\Par ou Impar\obj\Debug\net9.0\staticwebassets\msbuild.build.Par ou Impar.props
+C:\Users\Alunos\Desktop\DS-class\LP-class\Tarefas_LPR\Par ou Impar\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Par ou Impar.props
+C:\Users\Alunos\Desktop\DS-class\LP-class\Tarefas_LPR\Par ou Impar\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Par ou Impar.props
+C:\Users\Alunos\Desktop\DS-class\LP-class\Tarefas_LPR\Par ou Impar\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\Alunos\Desktop\DS-class\LP-class\Tarefas_LPR\Par ou Impar\obj\Debug\net9.0\Par ou Impar.dll
+C:\Users\Alunos\Desktop\DS-class\LP-class\Tarefas_LPR\Par ou Impar\obj\Debug\net9.0\refint\Par ou Impar.dll
+C:\Users\Alunos\Desktop\DS-class\LP-class\Tarefas_LPR\Par ou Impar\obj\Debug\net9.0\Par ou Impar.pdb
+C:\Users\Alunos\Desktop\DS-class\LP-class\Tarefas_LPR\Par ou Impar\obj\Debug\net9.0\Par ou Impar.genruntimeconfig.cache
+C:\Users\Alunos\Desktop\DS-class\LP-class\Tarefas_LPR\Par ou Impar\obj\Debug\net9.0\ref\Par ou Impar.dll
